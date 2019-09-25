@@ -3,19 +3,11 @@
 
 <img src="/img/logo.png" title="RECON logo" alt="RECON logo" />
 
-The **R** **E**pidemics **Con**sortium (RECON) is an international
-not-for-profit, **non-governmental organisation** gathering experts in data
-science, modelling methodology, public health, and software development to
-create the next generation of analytics tools for informing the response
-to *disease outbreaks*, *health emergencies* and *humanitarian crises*, 
-using the [R software](https://www.r-project.org/) and other free, 
-open-source resources.
+**Physiatry**, also referred to as **Physical Medicine and Rehabilitation (PM&R)**, is a specialty of medicine
 
-This includes packages specifically designed for handling, visualising, and
-analysing outbreak data using cutting-edge statistical methods, as well as more
-general-purposethis is a test of how this whole text wrapping business work. hopefully i have enough text to test it out.
 
-Our packages must fulfil three key aspects:
+
+This website is meant to serve as an education tool for anyone in the world that's interested in physiatry. You'll find answers to commonly asked questions about the field, and clarity regarding some misconceptions about physiatry. This site is geared towards patients
 
 - *Efficiency*: our tools can be used in real time to improve situation
   awareness and inform intervention strategies.

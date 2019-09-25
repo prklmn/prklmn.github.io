@@ -8,11 +8,11 @@ description: A website where you can learn more about Physiatry, also known as P
 
 # List of links in the navigation bar
 navbar-links:
-  What We Do:
+  Scope of Practice:
     - Medical Management: "medical"
     - Procedures: "procedures"
-    - Contact: "contact"
-  Who We Treat: "treat"
+    - Research: "research"
+  Who We Treat: "patients"
   Who Are We: "people"
   Resources: "resources"
   Site Author: "siteauthor"
