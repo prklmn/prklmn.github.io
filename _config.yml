@@ -1,38 +1,31 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
-url: "http://prklmn.github.io"
+url: "aboutphysiatry.com"
 baseurl: ""
 
-title: About Physiatry
-description: A website where you can learn mora about Physiatry, also known as Physical Medicine and Rehabilitation (PM&R)
+title: aboutphysiatry.com
+description: A website where you can learn more about Physiatry, also known as Physical Medicine and Rehabilitation (PM&R).
 
 # List of links in the navigation bar
 navbar-links:
-  About RECON:
-    - What we do: ""
-    - Join us: "join"
+  What We Do:
+    - Medical Management: "medical"
+    - Procedures: "procedures"
     - Contact: "contact"
-    - Code of Conduct: "CODE_OF_CONDUCT"
-  News: "blog"
-  People: "people"
-  Projects: "projects"
+  Who We Treat: "treat"
+  Who Are We: "people"
   Resources: "resources"
-  Events: "events"
-  Funding: "funding"
-  Forum: "forum"
+  Site Author: "siteauthor"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: "RECON - R Epidemics Consortium"
-  email: "thibautjombart@gmail.com"
-  github: reconhub/reconhub.github.io
-  facebook: yourname  # eg. daattali
-  twitter: yourname   # eg. daattali
+  name: "Jordan Perlman"
+  email: "jp@aboutphysiatry.com"
 
 # Select which links to show in the footer
 footer-links-active:
-  github: true
+  github: false
   email: true
   rss: false
   facebook: false
@@ -40,19 +33,19 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
-  
+  linkedin: false
+
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "reconhub-github-io"
+disqus: ""
 
 # Google Analytics ID
-google_analytics: "UA-83713279-1"
+google_analytics: "UA-148164042-1"
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/London"
+timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -70,8 +63,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      comments: false  # add comments to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
