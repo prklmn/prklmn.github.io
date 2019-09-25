@@ -13,8 +13,7 @@ open-source resources.
 
 This includes packages specifically designed for handling, visualising, and
 analysing outbreak data using cutting-edge statistical methods, as well as more
-general-purpose tools for data cleaning, versioning, and encryption, and system
-infrastructure.
+general-purposethis is a test of how this whole text wrapping business work. hopefully i have enough text to test it out.
 
 Our packages must fulfil three key aspects:
 
