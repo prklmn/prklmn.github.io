@@ -7,7 +7,7 @@
 
 
 
-This website is meant to serve as an education tool for anyone interested in learning more about physiatry. You'll find answers to commonly asked questions about the field and clarity regarding some misconceptions about physiatry. This site was created with a patient audience in mind, but healthcare providers may find it helpful to explore the site as well. 
+This website is meant to serve as an education tool for anyone interested in learning more about physiatry. You'll find answers to commonly asked questions about the field and clarity regarding some misconceptions about physiatry. This site was created with a patient audience in mind, but healthcare providers may also find it helpful to explore the site. 
 
 - *Efficiency*: our tools can be used in real time to improve situation
   awareness and inform intervention strategies.

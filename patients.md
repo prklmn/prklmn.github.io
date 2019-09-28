@@ -1,24 +1,13 @@
 ---
-title: Funders and partners
-subtitle: Those who support us
+title: Which Conditions do Physiatrists Treat?
+subtitle: ???
 ---
 
-RECON's activities are made possible by its members, who often volunteer time
-and effort for the greater good, but also by funding bodies and partners who
-have been supporting the organisation since its early days. On this page, we
-acknowledge institutions who supported RECON in terms of:
+Physiatrists diagnose and treat a large patient population with a wide variety of conditions. These conditions can be ...This is not a exhaustive list
 
-* *direct funding*: these funders support RECON through direct donations to the
-  organisation
+- osteoarthritis
+- osteoporosis
 
-* *indirect funding*: these funders support RECON through means other than
-  direct donations, typically through salaries of members who contribute to
-  RECON activities through their professional activity, or financial support of
-  events
-  
-* *partners*: these are organisations which have been collaborating with RECON
-  to co-organise events such as workshops and short courses
-  
 
 
 <br>
@@ -35,9 +24,9 @@ activities, please get in touch by [email](mailto:thibautjombart@gmail.com).
 
 ### MRC Centre for Global Infectious Disease Analysis (MRC GIDA)
 
-Based at Imperial College London and headed by 
-[Pr Neil Ferguson](https://www.imperial.ac.uk/people/neil.ferguson), 
-[MRC GIDA](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/about-us/) 
+Based at Imperial College London and headed by
+[Pr Neil Ferguson](https://www.imperial.ac.uk/people/neil.ferguson),
+[MRC GIDA](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/about-us/)
 (MR/R015600/1) has played a key role supporting the emergence of RECON and its
 activities, by helping us fund various events and supporting salaries of several
 key members. In particular, it provided the core funding for
@@ -55,7 +44,7 @@ London, the [NIHR HPRU MM](https://www.imperial.ac.uk/hpru-modelling)
 analytical and computational tools to improve public health. It has supported
 events, activities and members salaries since the emergence of RECON. In
 particular, it funded most of our short course in
-[Sofia](https://recon-sofia-2018.netlify.com/) and the satelite 
+[Sofia](https://recon-sofia-2018.netlify.com/) and the satelite
 [short course](https://recon-malta-2018.netlify.com/) and
 [workshop](https://recon-hackfest-3.netlify.com/) for the ESCAIDE conference in
 Malta in 2018.
@@ -92,9 +81,9 @@ and via the support of activities of the EPIET/EUPHEM fellows.
 
 ### Médecins Sans Frontières (MSF)
 
-[MSF](https://www.msf.org.uk/) and RECON collaborate on the development of 
-[R4epi](https://blogs.msf.org/bloggers/larissa/innovation-introducing-r4epis), 
-a project aiming to provide new, free and widely accessible resources for field 
+[MSF](https://www.msf.org.uk/) and RECON collaborate on the development of
+[R4epi](https://blogs.msf.org/bloggers/larissa/innovation-introducing-r4epis),
+a project aiming to provide new, free and widely accessible resources for field
 epidemiology.
 
 
@@ -108,4 +97,3 @@ Atlanta on infectious disease modelling in April 2018.
 
 [WHO Afro](https://www.afro.who.int/) has funded and co-organised a short course
 on outbreak analytics in December 2018.
-
