@@ -9,4 +9,4 @@ Physiatrists, academic or community based, may publish research and participate 
 -
 -
 
-You can search the National Institutes of Health [ClinicalTrials.gov](https://clinicaltrials.gov/) database if you are interested getting enrolled in a clinical trial.
+You can search the National Institutes of Health [ClinicalTrials.gov](https://clinicaltrials.gov/) database if you are interested in enrolling in a clinical trial.
