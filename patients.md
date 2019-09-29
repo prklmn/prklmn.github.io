@@ -3,9 +3,15 @@ title: Which Conditions do Physiatrists Treat?
 subtitle: ???
 ---
 
-Physiatrists diagnose and treat a large patient population with a wide variety of conditions. These conditions can be ...This is not a exhaustive list
+Physiatrists diagnose and treat a large patient population with a wide variety of conditions. These conditions can be treated in the outpatient clinic setting and or the inpatient rehabilitation hospital setting. Here are some of the most common conditions treated treated by physiatrists - this list is not exhaustive:  
 
-- osteoarthritis
+### Musculoskeletal disorders:
+
+
+- carpal tunnel syndrome
+-
+- lumbar radiculopathy (sciatica)
+- osteoarthritis (arthritis)
 - osteoporosis
 
 

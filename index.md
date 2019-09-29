@@ -3,11 +3,11 @@
 
 <img src="/img/logo.png" title="RECON logo" alt="RECON logo" />
 
-**Physiatry**, also referred to as **Physical Medicine and Rehabilitation (PM&R)**, is a specialty of medicine
+**Physiatry**, also referred to as **Physical Medicine and Rehabilitation (PM&R)**, is a specialty of medicine dedicated to
 
 
 
-This website is meant to serve as an education tool for anyone interested in learning more about physiatry. You'll find answers to commonly asked questions about the field and clarity regarding some misconceptions about physiatry. This site was created with a patient audience in mind, but healthcare providers may also find it helpful to explore the site. 
+This website is meant to serve as an education tool for anyone interested in learning more about physiatry. You'll find answers to commonly asked questions about the field and clarity regarding some misconceptions about physiatry. This site was created with a patient audience in mind, but healthcare professionals may also find it worthwhile to explore the site.
 
 - *Efficiency*: our tools can be used in real time to improve situation
   awareness and inform intervention strategies.
