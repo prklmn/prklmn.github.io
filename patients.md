@@ -14,7 +14,12 @@ Physiatrists diagnose and treat a large patient population with a wide variety o
 - osteoarthritis (arthritis)
 - osteoporosis
 
+### Rehabilitation care
 
+- spinal cord injury
+- stroke
+- traumatic brain injury
+-
 
 <br>
 
