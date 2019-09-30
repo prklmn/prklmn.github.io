@@ -1,7 +1,7 @@
 ---
 ---
 
-##About Physiatry
+# About Physiatry
 
 **Physiatry**, also referred to as **Physical Medicine and Rehabilitation (PM&R)**, is a specialty of medicine dedicated to improving the functionality of patients with injuries and diseases of the brain, spine, nerves, muscles, tendons, ligaments, joints, and bones.
 
