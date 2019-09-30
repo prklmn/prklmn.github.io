@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Additional Resources
 bigimg: /img/banners/mixed-deepblue.png
 ---
 
@@ -36,7 +36,7 @@ RECON aims to champion good practices for R package development. Check out the f
 # RECON R tips videos
 
 This series of short videos documents various issues relating to the use of R
-for outbreak analysis, from basics of how to install R to more advanced topics. 
+for outbreak analysis, from basics of how to install R to more advanced topics.
 You can request new videos by filling the form below.
 
 
