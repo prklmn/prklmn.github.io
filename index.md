@@ -1,6 +1,5 @@
 ---
 title: About Physiatry
-Subtitle: Learn more about this specialty
 ---
 
 
