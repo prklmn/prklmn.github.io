@@ -2,7 +2,7 @@
 title: Which Medications do Physiatrists Prescribe?
 ---
 
-Physiatrists cam prescribe any medication they see fit for their patients. However, there are some medications they prescribe much more frequently than others. Those include:
+Physiatrists can prescribe any medication they see fit for their patients. However, there are some medications they prescribe much more frequently than others. Those include:
 
 
 - anticonvulsants
@@ -12,9 +12,10 @@ Physiatrists cam prescribe any medication they see fit for their patients. Howev
 - nonsteroidal anti-inflammatory drugs (NSAIDs)
 - pain medications
 
-### Physiatrists don't just prescribe Medications
-They also commonly prescribe
 
+
+### Physiatrists don't just prescribe Medications
+They also commonly prescribe:
 - adaptive devices
 - cognitive behavioral therapy
 - (joint injections)[aboutphysiatry.com/procedures]

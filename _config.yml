@@ -13,7 +13,6 @@ navbar-links:
     - Procedures: "procedures"
   Patient Conditions: "patients"
   What is a Physiatrist?: "people"
-  Resources: "resources"
   Site Author: "siteauthor"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
