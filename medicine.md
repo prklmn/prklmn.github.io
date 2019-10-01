@@ -18,7 +18,7 @@ Physiatrists can prescribe any medication they see fit for their patients. Howev
 They also commonly prescribe:
 - adaptive devices
 - cognitive behavioral therapy
-- [joint injections](aboutphysiatry.com/procedures)
+- [joint injections](https://aboutphysiatry.com/procedures)
 - occupational therapy
 - orthotics
 - physical therapy

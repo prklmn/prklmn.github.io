@@ -8,7 +8,6 @@ Physiatrists diagnose and treat a large patient population with a wide variety o
 
 
 - carpal tunnel syndrome
--
 - lumbar radiculopathy (sciatica)
 - osteoarthritis (arthritis)
 - osteoporosis
