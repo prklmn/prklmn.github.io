@@ -74,6 +74,7 @@ defaults:
 exclude:
   - LICENSE
   - README.md
+  - delete_when_done.md
 
 gems:
   - jekyll-paginate
