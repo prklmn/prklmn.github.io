@@ -11,6 +11,7 @@ Physiatrists are doctors licensed to practice medicine, denoted by MD or DO foll
 - Spinal cord injury
 
 
+<br>
 
 ### What's the difference between Physiatrists and Physical Therapists?
 

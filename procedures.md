@@ -12,7 +12,7 @@ These injections can be delivered with ultrasound guidance, fluoroscopic (x-ray)
 - facet joint injections
 - knee injections
 - prolotherapy
-- prp injections
+- PRP injections
 - radiofrequency nerve ablation (rhizotomy)
 - sacroiliac (SI) joint injections
 - shoulder injections
@@ -22,7 +22,7 @@ These injections can be delivered with ultrasound guidance, fluoroscopic (x-ray)
 ### Spasticity Management
 
 - botulinum toxin injections
-- phenol injections 
+- phenol injections
 
 
 ## Diagnostic Study procedures
