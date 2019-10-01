@@ -14,7 +14,7 @@ Physiatrists can prescribe any medication they see fit for their patients. Howev
 
 <br>
 
-### Physiatrists don't just prescribe Medications
+#### Physiatrists don't just prescribe Medications
 They also commonly prescribe:
 - adaptive devices
 - cognitive behavioral therapy

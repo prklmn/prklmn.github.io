@@ -4,9 +4,9 @@ title: Which Procedures do Physiatrists Perform?
 
 Physiatrist perform therapeutic procedures as well as diagnostic testing procedures. The following list of procedures they perform is not exhaustive.
 
-## Therapeutic Procedures
+### Therapeutic Procedures
 
-### Pain Management
+#### Pain Management
 These injections can be delivered with ultrasound guidance, fluoroscopic (x-ray) guidance, or neither
 - epidural steroid injection
 - facet joint injections
@@ -19,14 +19,16 @@ These injections can be delivered with ultrasound guidance, fluoroscopic (x-ray)
 - stem cell injections
 - trigger point injections
 
-### Spasticity Management
+#### Spasticity Management
 
 - botulinum toxin injections
 - phenol injections
 
+<br>
+
 ***
 
-## Diagnostic Study procedures
+#### Diagnostic Study procedures
 
 - electromyography (EMG)
 - nerve conduction studies (NCS)
