@@ -24,6 +24,7 @@ These injections can be delivered with ultrasound guidance, fluoroscopic (x-ray)
 - botulinum toxin injections
 - phenol injections
 
+***
 
 ## Diagnostic Study procedures
 
