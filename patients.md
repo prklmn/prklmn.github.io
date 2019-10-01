@@ -15,6 +15,8 @@ Physiatrists diagnose and treat a large patient population with a wide variety o
 - peripheral neuropathy
 - phantom limb pain
 
+<br>
+
 #### Rehabilitation care after the following:
 
 - amputation
