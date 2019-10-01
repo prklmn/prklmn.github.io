@@ -12,7 +12,7 @@ Physiatrists can prescribe any medication they see fit for their patients. Howev
 - nonsteroidal anti-inflammatory drugs (NSAIDs)
 - pain medications
 
-
+<br> 
 
 ### Physiatrists don't just prescribe Medications
 They also commonly prescribe:
